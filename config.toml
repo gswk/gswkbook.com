@@ -1,0 +1,4 @@
+baseURL = "http://gswkbook.com/"
+languageCode = "en-us"
+title = "Getting Started With Knative"
+theme = "kraiklyn"
