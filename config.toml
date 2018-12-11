@@ -1,4 +1,4 @@
-baseURL = "http://gswkbook.com/"
+baseURL = "https://gswkbook.com/"
 languageCode = "en-us"
 title = "Getting Started With Knative"
 theme = "kraiklyn"
